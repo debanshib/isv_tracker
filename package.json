@@ -1,0 +1,21 @@
+{
+  "name": "dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "json2csv": "^5.0.0",
+    "kue": "^0.11.6",
+    "puppeteer": "^2.1.1",
+    "redis": "^3.0.2",
+    "redis-server": "^1.2.2",
+    "wappalyzer": "^5.9.31"
+  }
+}
